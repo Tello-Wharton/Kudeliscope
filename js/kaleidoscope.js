@@ -168,6 +168,6 @@ $( document ).ready( function () {
         } else {
           auto = true;
         }
-      }, 5000 );
+      }, 500 );
   })();
 });

@@ -1,13 +1,9 @@
 # Kaleidos: CSS Kaleidoscope Effects
 
 A simple kaleidoscope effect produced with a bunch of SASS-powered
-CSS rotation and scale transforms.
+CSS rotation and scale transforms on Ged's face.
 
-See it in action here: http://coldhead.github.com/kaleidos/ or here
-http://gif.ly/
-
-**Suddenly, Convenience!** Add it to your browser here:
-https://github.com/miketaylr/kaleidos-extension/
+See it in action here: http://kudeliscope.com
 
 ## Parameters
 You can pass parameters via the query string: e.g.
@@ -24,27 +20,14 @@ values.
 link to Github.
 
 ## Dedication
-Dedicated to [@jeanettehayes](http://twitter.com/jeanettehayes), who I
-thought might like this kind of thing.
+Dedicated to [@gkudelis](https://twitter.com/gkudelis), who has the best name ever.
 
 ## Minutiae
-The name "kaleidos" is derived from the Ancient Greek καλός (kalos),
-"beautiful, beauty" and εἶδος (eidos), "that which is seen: form,
-shape".
-
-This project is optimised for butterfly wings. A modern browser is
-mandatory. Happiness is mandatory.
-
-This might be more accurately described as a
-[teleidoscope](http://en.wikipedia.org/wiki/Teleidoscope) but who has
-ever heard of such a thing, really.
+It's funny because Ged's second name is Kudelis, and this is a Kudeliscope... Geddit?
 
 ## TODO
-* Some kind of build process like all the cool kids are doing.
+* This is complete.
 
 ## Terms & Conditions
 
-This project is dual licenced under the MIT and GPL licenses because
-[that's what Cowboy said to
-do](http://benalman.com/news/2010/02/on-licensing-my-code/). I hope
-that's okay with everyone.
+This project is dual licenced under the MIT and GPL licenses because.
